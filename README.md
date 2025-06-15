@@ -130,3 +130,7 @@ The model achieved around **78% training accuracy** and **70% validation accurac
 ## Submission
 
 This project is submitted as part of **Task 2 of the CODTECH Data Science Internship**. It demonstrates my ability to build and train a deep learning model using TensorFlow for real-world image classification tasks.
+
+## Output 
+
+![Image](https://github.com/user-attachments/assets/6064830f-2775-4aa6-b436-10ca1c620598)
